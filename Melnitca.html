@@ -1,11 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Melnitca</title>
+    <style>
+        p {
+            text-indent: 40px;
+        }
+
+        div {
+            border: 10px;
+        }
+
+        .bottom {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 250px;
+            background-color: chocolate;
+            color: darkblue;
+            text-align: center;
+        }
+
+        .top {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            grid-template-rows: 500px;
+            background-color: darkred;
+            color: darkslateblue;
+            text-align: center;
+        }
+
+        .righttop {
+            display: grid;
+            grid-template-rows: 250px;
+            background-color: darkslategrey;
+            text-align: center;
+            color: floralwhite;
+        }
+
+        .rightbotton {
+            display: grid;
+            grid-template-rows: 250px;
+            background-color: rgb(228, 15, 228);
+            text-align: center;
+            color: floralwhite;
+        }
+    </style>
 </head>
+
 <body>
-    <b>afjka</b>
+    <div class="front">
+        <div class="top">
+            <div>
+                <p align="center">
+                <h1>Очень важный список1</h1>
+                </p>
+                <ul>
+                    <li>
+                        <h2>Может даже картинка</h2>
+                    </li>
+                    <li>
+                        <h3>ляляля</h3>
+                    </li>
+                    <li>
+                        <h3>ляляля</h3>
+                    </li>
+                    <li>
+                        <h4>ляляля</h4>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <div class="righttop">
+                    <p><h2>не очень важный</h2></p>
+                    <ul>
+                        <li>но</li>
+                        <li>тоже</li>
+                        <li>список</li>
+                    </ul>
+                </div>
+                <div class="rightbotton">333</div>
+            </div>
+        </div>
+        <div class="bottom">
+            <div>My</div>
+            <div>First</div>
+            <div>grid</div>
+        </div>
+    </div>
 </body>
+
 </html>
