@@ -1,0 +1,47 @@
+body {
+    margin: 10px;
+}
+
+.page {
+    width: 1330px;
+    height: 675px;
+    position: relative;
+    background-color: blueviolet;
+    z-index: 1;
+}
+
+#header,
+#footer {
+    background-color: brown;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid yellow;
+}
+
+.center {
+    width: 1330px;
+    height: 520px;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+
+#menu {
+    width: 400px;
+    height: 510px;
+    border: 5px solid yellow;
+    z-index: 2;
+}
+
+h2 {
+    text-align: center;
+}
+
+.post {
+    width: 910px;
+    height: 250px;
+    border: 5px solid yellow;
+    z-index: 2;
+}
