@@ -1,0 +1,52 @@
+.bg_grey {
+    background-color: grey;
+    padding: 50px;
+    justify-content: center;
+}
+.bg_grey nav {
+    padding: 0px 20px;
+}
+.w_50 {
+    width: 50%;
+    padding: 20px;
+
+}
+.h_50 {
+    height: 50%;
+}
+.wrap {
+    flex-wrap: wrap;
+}
+.card_w {
+    width: 48%;
+}
+.m_b {
+    margin-bottom: 80px;
+}
+.m_l {
+    margin-left: 14px;
+}
+.p_l {
+    padding-left: 20px;
+    background-color: white;
+}
+.pos_r {
+    position: relative;
+    left: 20px;
+}
+.w_25 {
+    width: 25%;
+    margin-right: 30px;
+}
+.igm_f {
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.igm_f img {
+    width: 100%;
+}
+.bg_dark {
+    background-color: darkslategray;
+}

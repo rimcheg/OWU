@@ -1,0 +1,128 @@
+.bg_light {
+    background-color: gray;
+}
+.bg_dark {
+    background-color: rgb(5, 5, 63);
+}
+.h_100 {
+    height: 100px;
+}
+.h_400 {
+    height: 400px;
+}
+.h_1000 {
+    height: 1000px;
+}
+.padding_0{
+    padding: 0px;
+}
+.width_1000 {
+    width: 1300px;
+}
+.width_20 {
+    width: 20%;
+}
+.width_80 {
+    width: 80%;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+.h_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.margin_30 {
+    margin-top: 30px;
+}
+.w_h_250 {
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    border-radius: 20px;
+    background-color: darkcyan;
+}
+.pos_rel {
+    position: relative;
+    top: -125px;
+    flex-wrap: wrap;
+}
+.cards_8 {
+    width: 1300px;
+    column-gap: 20px;
+    flex-wrap: wrap;
+}
+.width_100 {
+    width: 100%;
+}
+.w_h_300 {
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: darkcyan;
+}
+.margin_30 {
+    margin-top: 30px;
+}
+.w_h_600 {
+    width: 500px;
+    height: 250px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: darkcyan;
+}
+.w_600 {
+    width: 500px;
+}
+.w_300 {
+    width: 250px;
+}
+.b_m_p_0 a {
+    border: 0px;
+    margin: 10px;
+    padding: 0px;
+    background-color: grey;
+    font-size: 50px;
+    color: black;
+}
+.w_h_500 {
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: darkcyan;
+}
+.br_circle {
+    border-radius: 100px;
+    margin-top: 65px;
+    margin-bottom: 0px;
+}
+.w_1000 {
+    width: 900px;
+    margin-top: 65px;
+    margin-bottom: 0px;
+}
+.w_1000 h2, .w_1000 h4 {
+    text-align: left;
+}
+.w_h_25 {
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.w_h_35 {
+    width: 60px;
+    height: 3px;
+    margin: 10px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+.al_end {
+    display: flex;
+    align-items: flex-end;
+}

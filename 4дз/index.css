@@ -1,0 +1,153 @@
+body {
+    margin: 0px;
+}
+li {
+    list-style-type: none;
+}
+p {
+    font-size: 17px;
+}
+
+.bg {
+    display: flex;
+}
+
+.left_menu {
+    width: 200px;
+}
+
+.icon {
+    width: 170px;
+    height: 170px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.icon img {
+    width: 100%;
+}
+
+.icon_txt {
+    margin: 0px;
+    text-align: center;
+}
+
+.left_menu ul {
+    margin: 20px;
+    padding: 0px;
+}
+
+.li_text {
+    border-bottom: 2px solid grey;
+}
+.li_text h1, .li_text h3 {
+    margin: 0px;
+    
+}
+
+.li_img {
+    width: 20px;
+    height: 20px;
+}
+
+.li_img img {
+    height: 100%;
+}
+.li_button {
+    width: 85px;
+    border: 2px solid grey;
+    text-align: right;
+}
+.li_set {
+    text-align: right;
+}
+.user1 li, .user2 li {
+    display: inline;
+}
+.user1 {
+    padding-left: 550px;
+}
+.user2 {
+    padding: 0px;
+}
+.search {
+    border: 2px solid gray;
+}
+.free {
+    margin-left: 605px;
+}
+.main_content {
+    margin: 0px;
+    padding: 20px;
+    border-left: 2px solid gray;
+    border-top: 2px solid gray;
+}
+.m_li {
+    margin-bottom: 20px;
+    width: 50%;
+    border: 2px solid grey;
+}
+.m_li h2 {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+.m_li ul {
+    margin: 0px;
+    padding: 0px;
+}
+.m_li a {
+    padding: 5px;
+}
+.m_li li {
+    padding: 5px;
+}
+.left_padding li{
+    padding-left: 30px;
+}
+.left_padding {
+    padding-bottom: 0px;
+}
+.right_items {
+    width: 202px;
+    height: 100%;
+    border: 2px solid grey;
+    padding: 5px;
+    float: right;
+    margin: 0px 0px 20px 20px;
+}
+.right_items h6, .left_items h6 {
+    margin: 10px;
+}
+.textimg {
+    border: 2px solid grey;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+.attension {
+    display: block;
+    overflow: hidden;
+    margin: 10px 0px 10px 100px;
+    padding: 10px 5px;
+    border: 2px solid grey;
+    background-color: lightgray;
+}
+.attension p {
+    margin: 0px;
+    font-size: 15px;
+}
+.quote {
+    text-align: right;
+}
+.left_items {
+    width: 224px;
+    height: 100%;
+    border: 2px solid grey;
+    padding: 5px;
+    float: left;
+    margin: 0px 20px 20px 0px;
+}
+

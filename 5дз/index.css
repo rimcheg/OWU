@@ -1,0 +1,122 @@
+h5 {
+    margin: 12%;
+    padding: 0px;
+    
+}
+h2 {
+    margin: 0px;
+    text-align: center;
+    color: white;
+}
+
+.page1 {
+    width: calc(100%-20px);
+    background-color: blueviolet;
+    border: 2px solid gray;
+}
+.vertical_grid {
+    display: grid;
+    grid-template-rows: 400px 300px 750px 250px;
+}
+.inh_lightgrey {
+    width: 100%;
+    height: 100%;
+    background-color: lightgrey;
+    text-align: center;
+}
+.inh_grey {
+    width: 100%;
+    height: 100%;
+    background-color: grey;
+    text-align: center;
+}
+.inh_darkgrey {
+    width: 100%;
+    height: 100%;
+    background-color: darkgrey;
+    text-align: center;
+}
+.inh_black {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    text-align: center;
+}
+.inh_wight {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    text-align: center;
+}
+.flex_cont, .flex_cont_33 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    justify-content: center;
+}
+.flex_c {
+    width: 75%;
+    height: 50%;
+    position: relative;
+    top: 25%;
+}
+.gorizontal_grid_4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    height: 260px;
+}
+.gorizontal_grid_3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 100%;
+}
+#c_75 {
+    height: 70%;
+    top: 7%;
+}
+.flex_header{
+    height: 10%;
+}
+#c_80 {
+    height: 80%;
+}
+#c_50 {
+    height: 50%;
+    position: relative;
+    top: 30%;
+}
+.flex_cont_33 {
+    height: 33%;
+}
+#white_50 {
+    top: 50%;
+    background-color: white;
+}
+#white_33 {
+    top: 33%;
+    background-color: white;
+}
+#lightgrey_18 {
+    top: 18%;
+    background-color: lightgrey;
+}
+.flex_text {
+    display: inline-block;
+    position: relative;
+    width: 66%;
+    height: 16%;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+#top_20 {
+    top: 20%;
+    float: right;
+}
+#top_52 {
+    top: 52%;
+    float: left;
+}

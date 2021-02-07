@@ -1,0 +1,86 @@
+body {
+    overflow: hidden;
+}
+.bg_black {
+    background-color: black;
+}
+.h_head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    color: white;
+}
+.h_body {
+    display: flex;
+    flex-wrap: wrap;
+    height: 460px;
+    width: 100%;
+    background-color: white;
+    padding: 0px;
+}
+.w_calc {
+    width: calc(100%/3);
+}
+.w_calc_2 {
+    width: calc(100%/3*2);
+}
+.h_top {
+    height: 195px;
+}
+.h_bottom {
+    height: 265px;
+}
+.bg_white {
+    background-color: white;
+}
+.bg_grey {
+    background-color: grey;
+}
+.mar_l {
+    position: relative;
+    flex-wrap: wrap;
+    color: white;
+    left: 33%;
+}
+.top_img {
+    display: flex;
+    position: relative;
+    background-color: green;
+    width: 85%;
+    height: 40%;
+    top: 50%;
+    left: 15%;
+}
+.z_2 {
+    z-index: 2;
+}
+.h_50 {
+    height: 50%;
+}
+.w_115 {
+    display: flex;
+    position: relative;
+    width: 115%;
+    left: -15%;
+}
+.w_100 {
+    width: 100%;
+}
+.bg_blue {
+    background-color: blue;
+}
+.bot_img {
+    display: flex;
+    position: relative;
+    background-color: chartreuse;
+    width: 60%;
+    height: 70%;
+    top: -200px;
+    left: 30%;
+}
+.car_lb {
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
