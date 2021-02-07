@@ -1,0 +1,119 @@
+
+.kontakts_form {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: -160px;
+    z-index: 2;
+}
+.kontakts_form h1 {
+    margin: 30px 0  ;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 96px;
+    color: #000000;
+}
+.kontakts_group {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    z-index: 2;
+}
+.z_ind {
+    z-index: 2;
+    margin-left: 50px;
+}
+.form_name {
+    width: 505px;
+    height: 54px;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box
+}
+.form_name p {
+    width: 67px;
+    height: 24px;
+    margin-top: 12px;
+    margin-left: 21px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+.form_Email {
+    width: 505px;
+    height: 54px;
+    border: 1px solid #30ABAE;
+    box-sizing: border-box;
+    margin: 27.5px 0;
+}
+.form_Email p {
+    width: 49px;
+    height: 24px;
+    margin-top: 12px;
+    margin-left: 21px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #C4C4C4;
+}
+.form_text {
+    width: 505px;
+    height: 186px;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+}
+.form_text p {
+    width: 170px;
+    height: 24px;
+    margin-top: 12px;
+    margin-left: 21px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #C4C4C4;
+}
+.nadislati {
+    margin: 40px 21%;
+    width: 295px;
+    height: 55.5px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    border-radius: 3px;
+    border: 0ch;
+    background-color: #30ABAE;
+    color: white;
+}
+.flex {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: flex-end;
+    z-index: 0;
+}
+.bg_gr {
+    position: relative;
+    width: 928px;
+    height: 650px;
+    top: 90px;
+    background: #F2F5F1;
+    z-index: 0;
+}
+.button_mobile {
+    display: none;
+}
+.footer_mobile {
+    display: none;
+}

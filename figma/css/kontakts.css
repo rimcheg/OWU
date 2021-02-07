@@ -1,0 +1,109 @@
+.page {
+    position: absolute;
+    width: 1440px;
+    height: 937px;
+}
+.kontakts_form {
+    position: absolute;
+    width: 928px;
+    height: 742px;
+    left: -8px;
+    top: 159px;
+    background: #F2F5F1;
+}
+.kontakts_form h1 {
+    position: absolute;
+    width: 674px;
+    height: 96px;
+    left: 208px;
+    top: -63px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 96px;
+    color: #000000;
+}
+.kontakts_group {
+    position: absolute;
+    width: 505px;
+    height: 349px;
+    left: 467.5px;
+    top: 258px;
+}
+.form_name{
+    width: 505px;
+    height: 54px;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box
+}
+.form_name p {
+    width: 67px;
+    height: 24px;
+    margin-top: 12px;
+    margin-left: 21px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+.form_Email {
+    width: 505px;
+    height: 54px;
+    border: 1px solid #30ABAE;
+    box-sizing: border-box;
+    margin: 27.5px 0;
+}
+.form_Email p {
+    width: 49px;
+    height: 24px;
+    margin-top: 12px;
+    margin-left: 21px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #C4C4C4;
+}
+.form_text {
+    width: 505px;
+    height: 186px;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+}
+.form_text p {
+    position: absolute;
+    width: 170px;
+    height: 24px;
+    margin-top: 12px;
+    margin-left: 21px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #C4C4C4;
+}
+.nadislati {
+    position: absolute;
+    width: 295px;
+    height: 55.5px;
+    left: 572.5px;
+    top: 644.5px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    border-radius: 3px;
+    border: 0ch;
+    background-color: #30ABAE;
+    color: white;
+}
+
+

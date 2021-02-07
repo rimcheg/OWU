@@ -1,0 +1,90 @@
+@media screen and (max-width: 577px) {
+    .page {
+        width: 576px;
+    }
+    .button_mobile {
+        display: flex;
+    }
+    .header_menu {
+        position: absolute;
+        width: 576px;
+        height: 83.04px;
+        left: 0.25px;
+        top: 0px;
+    }
+    .nav {
+        display: none;
+    }
+    .icons {
+        height: 41.860755920410156px;
+        width: 319.6067199707031px;
+        position: absolute;
+        left: 33.2px;
+        right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        top: 12%;
+    }
+    .nav_icon_mob {
+        display: block;
+    }   
+    .nav_icon1 {
+        height: 41.860755920410156px;
+        width: 19.02761459350586px;
+    }
+    .nav_icon1 img {
+        height: 100%;
+    }
+    .nav_icon2 {
+        height: 41.3727912902832px;
+        width: 42.589637756347656px;
+    }
+    .nav_icon2 img {
+        width: 100%;
+    }
+    .nav_icon3 {
+        height: 41.38144302368164px;
+        width: 51.099666595458984px;
+    }
+    .nav_icon3 img {
+        width: 100%;
+    }
+    .kontakts_form {
+        width: 576px;
+        left: 0;
+        background: rgba(242, 245, 241, 0.5);
+    }
+    .kontakts_form h1 {
+        position: absolute;
+        width: 417.28px;
+        height: 192px;
+        left: 33.25px;
+        font-family: Playfair Display;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 72px;
+        line-height: 96px;
+        color: #000000;
+    }
+    .kontakts_group {
+        position: absolute;
+        width: 453.45px;
+        height: 328px;
+        left: 34px;
+        top: 439px;
+    }
+    .nadislati {
+        position: absolute;
+        left: 25.26%;
+        right: 25.17%;
+        top: 840px
+    }
+    .footer {
+        display: none;
+    }
+    .footer_mobile {
+        display: block;
+    }
+    
+}

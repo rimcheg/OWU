@@ -1,0 +1,32 @@
+@media screen and (max-width: 600px) {
+    .kontakts_form h1 {
+        width: 417.28px;
+        height: 192px;
+        font-family: Playfair Display;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 65px;
+        line-height: 96px;
+        color: #000000
+    }
+    .bg_gr {
+        width: 100%;
+    }
+    .kontakts_form {
+        left: 0;
+    }
+    .z_ind {
+        margin: 0;
+        width: 80%;
+    }
+    .form_name, .form_Email, .form_text {
+        width: 100%;
+    }
+    .form_Email {
+        margin: 20px 0;
+    }
+    .nadislati {
+        width: 70%;
+        margin: 30px 15% 0 15%;
+    }
+}

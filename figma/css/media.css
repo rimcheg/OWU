@@ -1,0 +1,149 @@
+@media screen and (max-width: 577px) {
+    .page {
+        width: 576px;
+    }
+    .button_mobile {
+        display: flex;
+    }
+    .header_menu {
+        position: absolute;
+        width: 576px;
+        height: 83.04px;
+        left: 0.25px;
+        top: 0px;
+    }
+    .nav {
+        display: none;
+    }
+    .icons {
+        height: 41.860755920410156px;
+        width: 319.6067199707031px;
+        position: absolute;
+        left: 33.2px;
+        right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        top: 12%;
+    }
+    .nav_icon_mob {
+        display: block;
+    }   
+    .nav_icon1 {
+        height: 41.860755920410156px;
+        width: 19.02761459350586px;
+    }
+    .nav_icon1 img {
+        height: 100%;
+    }
+    .nav_icon2 {
+        height: 41.3727912902832px;
+        width: 42.589637756347656px;
+    }
+    .nav_icon2 img {
+        width: 100%;
+    }
+    .nav_icon3 {
+        height: 41.38144302368164px;
+        width: 51.099666595458984px;
+    }
+    .nav_icon3 img {
+        width: 100%;
+    }
+    .footer {
+        display: none;
+    }
+    .footer_mobile {
+        display: block;
+    }
+    .image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        height: 772.0441284179688px;
+        width: 576px;
+        top: 82.955810546875px;
+    }
+    .image img {
+        height: 100%;
+        width: 300%;
+    }
+    .image h1 {
+        height: 160px;
+        width: 363.15625px;
+        left: 35px;
+        top: 550px;
+        font-family: Playfair Display;
+        font-size: 64px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 80px;
+        letter-spacing: 0.03em;
+        text-align: left;
+    }
+    .ellipse {
+        display: none;
+    }
+    .slider {
+        display: none;
+    }
+    h2 {
+        height: 48px;
+        width: 425px;
+        left: 100px;
+        top: 990px;
+    }
+    .mesta {
+        display: block;
+    }
+    .marakesh, .kambodja, .turciya {
+        height: 339.5px;
+        width: 510px;
+        left: 33px;
+        top: 1076px;
+        border-radius: 0px;
+    }
+    .marakesh_img, .kambodja_img, .turciya_img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        height: 263px;
+        width: 188.5px;
+        left: 33px;
+        top: 1083px;
+        background-color: violet;
+    }
+    .marakesh_img img {
+        position: relative;
+        height: 100%;
+    }
+    .marakesh h3, .kambodja h3, .turciya h3 {
+        height: 28px;
+        width: 246px;
+        left: 210px;
+        top: 0;
+    }
+    .marakesh p, .kambodja p, .turciya p  {
+        height: 266px;
+        width: 295px;
+        left: 210px;
+        top: 40px;
+    }
+    .marakesh span, .kambodja span, .turciya span  {
+        transform: rotate(0deg);
+        width: 510px;
+        left: 0px;
+        border: 1px solid #ED8651;
+    }
+    .kambodja {
+        top: 1475px;
+    }
+    .turciya {
+        top: 1900px;
+    }
+    .footer_mobile {
+        bottom: -870px;
+    }
+}

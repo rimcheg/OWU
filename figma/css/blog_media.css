@@ -1,0 +1,212 @@
+@media screen and (max-width: 600px) {
+    .page {
+        width: 576px;
+    }
+    .button_mobile {
+        display: flex;
+    }
+    .header_menu {
+        position: absolute;
+        width: 576px;
+        height: 83.04px;
+        left: 0.25px;
+        top: 0px;
+    }
+    .nav {
+        display: none;
+    }
+    .icons {
+        height: 41.860755920410156px;
+        width: 319.6067199707031px;
+        position: absolute;
+        left: 33.2px;
+        right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        top: 12%;
+    }
+    .nav_icon_mob {
+        display: block;
+    }   
+    .nav_icon1 {
+        height: 41.860755920410156px;
+        width: 19.02761459350586px;
+    }
+    .nav_icon1 img {
+        height: 100%;
+    }
+    .nav_icon2 {
+        height: 41.3727912902832px;
+        width: 42.589637756347656px;
+    }
+    .nav_icon2 img {
+        width: 100%;
+    }
+    .nav_icon3 {
+        height: 41.38144302368164px;
+        width: 51.099666595458984px;
+    }
+    .nav_icon3 img {
+        width: 100%;
+    }
+    .footer {
+        display: none;
+    }
+    .footer_mobile {
+        display: block;
+    }
+    .blog_menu h1{
+        height: 80px;
+        width: 363.15625px;
+        left: 63.84375px;
+    }
+    .blog_menu h4 {
+        height: 24px;
+        width: 90px;
+        left: 65.34375px;
+        top: 55px;
+    }
+    .kategory {
+        height: 191.3714599609375px;
+        width: 451.15625px;
+        left: 63.84375px;
+        top: 90px;
+        border-radius: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .kategory_item {
+        height: 43px;
+        width: 215px;
+        left: 63.84375px;
+        top: 343.4385986328125px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0ch;
+    }
+    .mob_none {
+        display: none;
+    }
+    .kategory button {
+        display: flex;
+        border: 0px;
+        background: none;
+    }
+    .blog_menu {
+        height: 510px;
+        width: 394.5px;
+        background: rgba(242, 245, 241, 0.5);
+    }
+    .all_kategory {
+        display: none;
+    }
+    .blogs {
+        width: 480px;
+        left: 37px;
+        top: 560px;
+    }
+    .components {
+        height: 611px;
+        width: 210px;
+    }
+    .components img {
+        width: 100%;
+    }
+    .nazva_avtor {
+        left: 30px;
+        top: 10px;
+    }
+    .nazva_avtor p {
+        margin: 0px;
+    }
+    .border {
+        width: 100%;
+    }
+    .read_more {
+        height: 50.5px;
+        width: 209.15625px;
+        left: 0px;
+        top: 13px;
+        border-radius: 3px;
+        background: #30ABAE;
+        color: white;
+    }
+    .light_footer_desktop {
+        width: 100%;
+        top: 102%;
+    }
+    .blog_read {
+        width: 576px;
+    }
+    .blog_1_img {
+        height: 429px;
+        width: 576px;
+        left: 0px;
+        top: 84px;
+    }
+    .blog_1_img img {
+        width: 100%;
+    }
+    .blog_1_left h1 {
+        height: 232px;
+        width: 482px;
+        left: 116px;
+        top: 240px;
+        z-index: 2;
+    }
+    .blog_1_left h2 {
+        height: 48px;
+        width: 225px;
+        left: 119.77734375px;
+        top: 340px;
+        z-index: 2;
+    }
+    .bg{
+        display: block;
+        position: absolute;
+        height: 232px;
+        width: 482px;
+        left: -45px;
+        top: 225px;
+        border-radius: 0px;
+        background: #F2F5F1;
+        z-index: 1;
+    }
+    .nazva_avtor {
+        position: absolute;
+        top: 68%;
+        left: 35%;
+    }
+    .blog_1_left {
+        background: none;
+    }
+    .blog_1_text {
+        height: 349.91455078125px;
+        width: 452.1334228515625px;
+        left: 63.84375px;
+        top: 530px;
+    }
+    .blog_1_back {
+        height: 50.5px;
+        width: 209.15625px;
+        left: 63.84375px;
+        top: 1210.52099609375px;
+        position: absolute;
+        top: 133%;
+        background: #30ABAE;
+        border-radius: 3px;
+    }
+    .blog_1_left {
+        width: 100%;
+    }
+    .blog_read_footer_mobile {
+        top: 133%;
+    }
+    .blog_read {
+        height: 1800px;
+        background-color: #c4c4c4;
+    }
+}
